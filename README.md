@@ -1,2 +1,2 @@
-# project-unit-miles
-Projeto Unit Miles 
+# Unit Miles :airplane:
+Projeto de passagem aérea, utlizando os pilares da programação orientada a objetos (POO).
